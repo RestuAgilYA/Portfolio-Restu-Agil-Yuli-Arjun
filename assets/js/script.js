@@ -4,7 +4,7 @@ var typed = new Typed('.typing-text', {
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
-  backDelay: 1000,
+  backDelay: 2000,
 });
 
 // MEMBUAT HAMBURGER BUTTON DAN NAVBAR SAAT RESPONSIVE
