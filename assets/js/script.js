@@ -1,6 +1,6 @@
 // <!-- Typed js Effect -->
 var typed = new Typed('.typing-text', {
-  strings: ['web development', 'frontend javascript','UI Designer', 'Software Quality Assurance'],
+  strings: ['AI/ML/DL Developer', 'Web Developer', 'frontend javascript','UI Designer', 'Software Quality Assurance'],
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
